@@ -1,5 +1,15 @@
-## 2024 Result: 
+## 2025 Result: 
 ### ***In progress***
+
+<p align="center">
+  <img src="AdventOfCode2025.png" width="400" height="485"/>
+</p>
+
+---
+
+
+## 2024 Result: 
+### ***38 Stars***
 
 <p align="center">
   <img src="AdventOfCode2024.jpg" />
